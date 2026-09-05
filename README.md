@@ -1,8 +1,7 @@
 # Assistente Heloísa
 
-[![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow.svg)]()
-[![License](https://img.shields.io/badge/Licença-MIT-green.svg)](LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-yellow.svg)](https://python.org)
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue.svg)]()
 
 A Assistente Heloísa é uma assistente virtual baseada em **CLI (Interface de Linha de Comando)** desenvolvida em Python. Ela foi criada para funcionar diretamente no **Terminal do Windows**, com o objetivo de consultar e divulgar o acervo histórico, geográfico e cultural da cidade de Itaboraí.
 
