@@ -9,7 +9,7 @@ A Assistente Heloísa é uma assistente virtual baseada em **CLI (Interface de L
 
 ## Objetivo
 
-Disponibilizar um canal rápido e acessível para que moradores e visitantes possam tirar dúvidas sobre Itaboraí, utilizando dados reais que estarão disponíveis no [site oficial do projeto](https://memoriaitaboraiense.org).
+Disponibilizar um canal rápido e acessível para que moradores e visitantes possam tirar dúvidas sobre Itaboraí, utilizando dados reais que estarão disponíveis no [site oficial do projeto](https://memoriaitaboraiense.shop).
 
 ---
 
@@ -104,7 +104,7 @@ Quer ajudar a melhorar a Heloísa? Ficaremos felizes!
 
 ## Licença
 
-Este projeto é de código aberto sob a licença [MIT](LICENSE). Sinta-se livre para usar, estudar e modificar, desde que mantidos os devidos créditos à equipe da Memória Itaboraiense.
+Este projeto é de código aberto sob a licença [MIT](LICENSE). Sinta-se livre para usar, estudar e modificar, desde que mantidos os devidos créditos à equipe do Acervo Itaboraiense.
 
 ---
 
